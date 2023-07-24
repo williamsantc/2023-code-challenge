@@ -1,0 +1,13 @@
+{
+    "name": "2023-code-challenge",
+    "version": "1.0.0",
+    "description": "Code Challenge",
+    "main": "index.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
